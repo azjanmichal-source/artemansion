@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte Mansion | Wykończenia wnętrz premium</title>
+
+    <meta name="description" content="Kompleksowe wykończenia wnętrz, projektowanie wnętrz, podłogi drewniane oraz meble na wymiar. Arte Mansion - Lublin.">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+Arte Mansion
+</div>
+
+<nav>
+
+<a href="#">Strona główna</a>
+
+<a href="#about">O nas</a>
+
+<a href="#services">Usługi</a>
+
+<a href="#gallery">Realizacje</a>
+
+<a href="#contact">Kontakt</a>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>Tworzymy wnętrza klasy Premium</h1>
+
+<p>
+
+Kompleksowe wykończenia wnętrz • Podłogi drewniane • Projektowanie wnętrz • Meble na wymiar
+
+</p>
+
+<a href="#contact" class="button">
+Umów konsultację
+</a>
+
+</div>
+
+</section>
+
+
+
+<section id="about">
+
+<h2>O firmie</h2>
+
+<p>
+
+Arte Mansion to firma z Lublina specjalizująca się w kompleksowych wykończeniach wnętrz klasy premium.
+
+Łączymy nowoczesny design z najwyższą jakością wykonania.
+
+Dbamy o każdy detal — od projektu po finalne wykończenie.
+
+</p>
+
+</section>
+
+
+
+<section id="services">
+
+<h2>Nasze usługi</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Wykończenia wnętrz</h3>
+
+<p>
+
+Kompleksowe realizacje mieszkań i domów pod klucz.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Projektowanie wnętrz</h3>
+
+<p>
+
+Tworzymy funkcjonalne i eleganckie przestrzenie.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Podłogi drewniane</h3>
+
+<p>
+
+Deska, parkiet oraz jodełka klasy premium.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Meble na wymiar</h3>
+
+<p>
+
+Kuchnie, garderoby, szafy oraz zabudowy meblowe.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="gallery">
+
+<h2>Nasze realizacje</h2>
+
+<p>
+
+Galeria zostanie uzupełniona o zdjęcia naszych realizacji.
+
+</p>
+
+</section>
+
+
+
+<section id="contact">
+
+<h2>Kontakt</h2>
+
+<p>
+
+📍 Lublin
+
+</p>
+
+<p>
+
+📞 532 837 361
+
+</p>
+
+<p>
+
+✉ artemansion@gmail.com
+
+</p>
+
+<a href="tel:+48532837361" class="button">
+
+Zadzwoń
+
+</a>
+
+</section>
+
+
+
+<footer>
+
+<p>
+
+© 2026 Arte Mansion
+
+</p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
