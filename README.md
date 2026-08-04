@@ -1,6 +1,6 @@
 # Arte Mansion
 
-Profesjonalna strona internetowa firmy Arte Mansion.
+Arte Mansion 
 
 ## Usługi
 
